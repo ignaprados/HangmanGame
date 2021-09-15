@@ -39,7 +39,8 @@ _ a _ a _ a
           |
           |
   =========
-
+```
+```
 Guess a letter: b
 b a _ a _ a
 
@@ -50,7 +51,8 @@ b a _ a _ a
           |
           |
   =========
-
+```
+```
 Guess a letter: g
 You guessed g, this letter is not in the word, You lose a try.
 b a _ a _ a
@@ -61,7 +63,8 @@ b a _ a _ a
           |
           |
   =========
-
+```
+```
 Guess a letter: h
 You guessed h, this letter is not in the word, You lose a try.
 b a _ a _ a
@@ -73,7 +76,8 @@ b a _ a _ a
           |
           |
   =========
-
+```
+```
 Guess a letter: j
 You guessed j, this letter is not in the word, You lose a try.
 b a _ a _ a
@@ -85,7 +89,8 @@ b a _ a _ a
           |
           |
   =========
-
+```
+```
 Guess a letter: u
 You guessed u, this letter is not in the word, You lose a try.
 b a _ a _ a
@@ -97,7 +102,8 @@ b a _ a _ a
           |
           |
   =========
-
+```
+```
 Guess a letter: y
 You guessed y, this letter is not in the word, You lose a try.
 b a _ a _ a
@@ -109,7 +115,8 @@ b a _ a _ a
     \     |
           |
   =========
-
+```
+```
 Guess a letter: n
 b a n a n a
 You are a winner, Congratulations.
