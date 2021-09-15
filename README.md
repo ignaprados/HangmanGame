@@ -13,6 +13,7 @@ python hangman.py
 
 ## Usage
 - Guess the word given letter by letter. If you run out of opportunities you lose.
+- You can edit the posible words array by editing the ```hangman_guessing.py``` file.
 
 
 ## Example
